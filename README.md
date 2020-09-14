@@ -6,3 +6,4 @@ A more complete description of the project can be found under the README file in
 This project is a work in progress.
 
 This file is updated throughRStudio.
+the full project can be found at https://github.com/ultush/ontario-trillium-foundation-grants
