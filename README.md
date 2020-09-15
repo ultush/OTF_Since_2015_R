@@ -3,4 +3,4 @@ This file contains the details of code using R and RStudio to analyze the otf_gr
 
 A more complete description of the project can be found under the README file in https://github.com/ultush/ontario-trillium-foundation-grants
 
-This file is updated through RStudio.
+The file otf_since_2015 is updated through RStudio.
